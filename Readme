@@ -1,6 +1,8 @@
 Basic Chatbot
-Description
-This is a simple text-based chatbot built using Python and NLTK. The chatbot can respond to basic greetings, answer questions about itself, tell jokes and facts, provide basic sentiment analysis, and fetch weather updates.
+
+Description:-
+This is a simple text-based chatbot built using Python and NLTK. 
+The chatbot can respond to basic greetings, answer questions about itself, tell jokes and facts, provide basic sentiment analysis, and fetch weather updates.
 
 Features:-
 Responds to greetings and common questions
